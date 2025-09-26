@@ -1,0 +1,18 @@
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\bin\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.exe
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\bin\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.deps.json
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\bin\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.runtimeconfig.json
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\bin\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.dll
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\bin\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.pdb
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\Proj._Lista___Agenda___WFA.Properties.Resources.resources
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.dll
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\refint\Proj. Lista - Agenda - WFA.dll
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.pdb
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\Proj. Lista - Agenda - WFA.genruntimeconfig.cache
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\ref\Proj. Lista - Agenda - WFA.dll
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\Proj._Lista___Agenda___WFA.Forms.Form1.resources
+C:\Users\alexa\source\repos\Proj. Lista - Agenda - WFA\Proj. Lista - Agenda - WFA\obj\Debug\net8.0-windows\Proj._Lista___Agenda___WFA.Forms.AgendaForm.resources
